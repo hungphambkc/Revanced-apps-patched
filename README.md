@@ -1,4 +1,4 @@
-### REVANCED APPS PATCHED BY ME
+# REVANCED APPS PATCHED BY ME
 ## USING REVANCED MANAGER
-# YouTube Revanced 
+### YouTube Revanced 
 You can using MicroG here: https://gitlab.com/cuynu/VancedxMicroG/-/releases
